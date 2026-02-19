@@ -1,4 +1,4 @@
-module github.com/openziti/cobra-to-md
+module github.com/hanzozt/cobra-to-md
 
 go 1.21
 

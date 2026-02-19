@@ -17,7 +17,7 @@ package main
 
 import (
 	"fmt"
-	gendoc "github.com/openziti/cobra-to-md"
+	gendoc "github.com/hanzozt/cobra-to-md"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )
